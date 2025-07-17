@@ -31,6 +31,7 @@ export default function Index() {
               <View style={{ alignItems: "center", paddingVertical: 20 }}>
               <Text style={{ color: "white" }}>Continue to home</Text>
             </View>
+            <Text>Hello world</Text>
          </ImageBackground>
       </SafeAreaView>
         
