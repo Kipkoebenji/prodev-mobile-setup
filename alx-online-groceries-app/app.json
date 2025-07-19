@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "alx-online-groceries-app",
-    "slug": "alx-online-groceries-app",
+    "name": "prodev-mobile-app-0x04",
+    "slug": "prodev-mobile-app-0x04",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "alxonlinegroceriesapp",
+    "scheme": "prodevmobileapp0x04",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
